@@ -25,3 +25,7 @@ You need an AWS account!
 1. Press on any under proxy then Test on the left side in Client
 1. Method -> GET, Path -> /hello .. then click Test
 1. Yeay!
+
+
+### Extended Example of this
+https://github.com/hshar7/kotlin-lambda-notes-service
